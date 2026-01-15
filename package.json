@@ -1,9 +1,10 @@
 {
   "name": "random-hex-color-gen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple package that generate random color as hex-code code",
   "license": "ISC",
   "author": "Asela Priyadarshana",
+  "repository": "https://github.com/zaselalk/random-hex-color-gen",
   "keywords": [
     "color",
     "hex",
