@@ -1,0 +1,18 @@
+{
+  "name": "random-hex-color-gen",
+  "version": "1.0.3",
+  "description": "A simple package that generate random color as hex-code code",
+  "license": "ISC",
+  "author": "Asela Priyadarshana",
+  "keywords": [
+    "color",
+    "hex",
+    "random",
+    "generator"
+  ],
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
